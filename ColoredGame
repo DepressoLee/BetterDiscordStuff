@@ -1,0 +1,4 @@
+.channel-members .member.member-status-online .member-inner .member-activity-text strong {color: #43b581}
+.channel-members .member.member-status-idle .member-inner .member-activity-text strong {color: #faa61a}
+.channel-members .member.member-status-dnd .member-inner .member-activity-text strong {color: #f04747}
+.channel-members .member.member-status-offline .member-inner .member-activity-text strong {color: #636b75}
